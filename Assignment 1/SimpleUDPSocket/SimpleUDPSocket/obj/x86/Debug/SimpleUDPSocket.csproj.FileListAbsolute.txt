@@ -1,0 +1,17 @@
+Z:\Seafile\USU\Classes\cs5200f14\Lessons\Lesson02\SimpleUDPSocket\SimpleUDPSocket\bin\Debug\SimpleUDPSocket.exe
+Z:\Seafile\USU\Classes\cs5200f14\Lessons\Lesson02\SimpleUDPSocket\SimpleUDPSocket\bin\Debug\SimpleUDPSocket.pdb
+Z:\Seafile\USU\Classes\cs5200f14\Lessons\Lesson02\SimpleUDPSocket\SimpleUDPSocket\obj\x86\Debug\SimpleUDPSocket.exe
+Z:\Seafile\USU\Classes\cs5200f14\Lessons\Lesson02\SimpleUDPSocket\SimpleUDPSocket\obj\x86\Debug\SimpleUDPSocket.pdb
+Z:\Seafile\USU\Classes\cs5200f14\Lessons\Lesson02\SimpleUDPSocket\SimpleUDPSocket\bin\Debug\SimpleUDPSocket.exe.config
+Z:\Seafile\USU\Classes\cs5200f14\Lessons\Lesson02\SimpleUDPSocket\SimpleUDPSocket\obj\x86\Debug\SimpleUDPSocket.csprojResolveAssemblyReference.cache
+Y:\Seafile\USU\CS5200 2014 Fall\Notes\IntroToDistributedSystems\SimpleUDPSocket\SimpleUDPSocket\bin\Debug\SimpleUDPSocket.exe.config
+Y:\Seafile\USU\CS5200 2014 Fall\Notes\IntroToDistributedSystems\SimpleUDPSocket\SimpleUDPSocket\obj\x86\Debug\SimpleUDPSocket.exe
+Y:\Seafile\USU\CS5200 2014 Fall\Notes\IntroToDistributedSystems\SimpleUDPSocket\SimpleUDPSocket\obj\x86\Debug\SimpleUDPSocket.pdb
+Y:\Seafile\USU\CS5200 2014 Fall\Notes\IntroToDistributedSystems\SimpleUDPSocket\SimpleUDPSocket\bin\Debug\SimpleUDPSocket.exe
+Y:\Seafile\USU\CS5200 2014 Fall\Notes\IntroToDistributedSystems\SimpleUDPSocket\SimpleUDPSocket\bin\Debug\SimpleUDPSocket.pdb
+Y:\Seafile\USU\CS5200 2014 Fall\Notes\IntroToDistributedSystems\SimpleUDPSocket\SimpleUDPSocket\obj\x86\Debug\SimpleUDPSocket.csprojResolveAssemblyReference.cache
+Y:\Seafile\USU\CS5200 2014 Fall\Examples\SimpleUDPSocket\SimpleUDPSocket\bin\Debug\SimpleUDPSocket.exe
+Y:\Seafile\USU\CS5200 2014 Fall\Examples\SimpleUDPSocket\SimpleUDPSocket\bin\Debug\SimpleUDPSocket.exe.config
+Y:\Seafile\USU\CS5200 2014 Fall\Examples\SimpleUDPSocket\SimpleUDPSocket\bin\Debug\SimpleUDPSocket.pdb
+Y:\Seafile\USU\CS5200 2014 Fall\Examples\SimpleUDPSocket\SimpleUDPSocket\obj\x86\Debug\SimpleUDPSocket.exe
+Y:\Seafile\USU\CS5200 2014 Fall\Examples\SimpleUDPSocket\SimpleUDPSocket\obj\x86\Debug\SimpleUDPSocket.pdb
