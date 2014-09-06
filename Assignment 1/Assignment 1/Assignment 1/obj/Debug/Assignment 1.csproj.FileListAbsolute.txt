@@ -1,0 +1,10 @@
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.Cache
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\cody\Documents\GitHub\CS5200\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.PopupForm.resources

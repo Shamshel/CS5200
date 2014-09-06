@@ -1,0 +1,5 @@
+2014-09-05 02:48:21,928 [1] DEBUG WordGuessPlayer.PlayerForm - Stopping a listener
+2014-09-05 02:48:21,960 [1] INFO  Common.BackgroundThread - Stopping Listener
+2014-09-05 02:48:22,186 [Listener] INFO  Common.Listener - Leaving Process method
+2014-09-05 02:48:22,186 [1] DEBUG WordGuessPlayer.PlayerForm - Stopping a worker
+2014-09-05 02:48:22,186 [1] INFO  Common.BackgroundThread - Stopping Worker

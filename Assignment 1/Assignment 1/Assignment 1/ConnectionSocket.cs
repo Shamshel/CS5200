@@ -486,7 +486,7 @@ namespace Assignment_1
             
         }
 
-        public string Receieve()
+        public string Receive()
         {
             byte[] msgBuf = new Byte[buffSize];
             string result = null;
@@ -500,7 +500,7 @@ namespace Assignment_1
                 msgBuf = new Byte[buffSize];
 
                 //receive message portion
-                bytesRec = Receieve(ref msgBuf);
+                bytesRec = Receive(ref msgBuf);
 
                 //append converted data to result
                 result += Encoding.Unicode.GetString(msgBuf, 0, bytesRec);
@@ -532,7 +532,7 @@ namespace Assignment_1
 
         }
 
-        public int Receieve(ref byte[] msg)
+        public int Receive(ref byte[] msg)
         {
             try
             {
@@ -559,6 +559,28 @@ namespace Assignment_1
                 Console.Write("Failed to receive through socket: {0}\n\r", e.Message);
 
                 return -1;
+
+            }
+
+        }
+
+        public int Available()
+        {
+            if(localSocket != null)
+            {
+                return localSocket.Available;
+
+            }
+
+            else if(udpSocket != null)
+            {
+                return udpSocket.Available;
+
+            }
+
+            else
+            {
+                return 0;
 
             }
 

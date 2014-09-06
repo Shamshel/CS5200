@@ -1,0 +1,17 @@
+2014-09-04 21:30:04,813 [1] DEBUG WordGuessPlayer.PlayerForm - Creating a communicator
+2014-09-04 21:30:04,882 [1] INFO  Common.Communicator - Created Communicator's UdpClient, bound to 0.0.0.0:61808
+2014-09-04 21:30:04,883 [1] DEBUG WordGuessPlayer.PlayerForm - Creating a listener
+2014-09-04 21:30:04,888 [1] DEBUG WordGuessPlayer.PlayerForm - Creating a worker
+2014-09-04 21:30:04,888 [1] DEBUG WordGuessPlayer.PlayerForm - Starting a listener
+2014-09-04 21:30:04,890 [1] INFO  Common.BackgroundThread - Starting Listener
+2014-09-04 21:30:04,898 [1] DEBUG WordGuessPlayer.PlayerForm - Starting a worker
+2014-09-04 21:30:04,899 [1] INFO  Common.BackgroundThread - Starting Worker
+2014-09-04 21:48:12,983 [1] INFO  Common.Communicator - Sent newgame:A000001,herndon,cody to 127.0.0.1:12001, result=True
+2014-09-04 21:48:13,115 [Listener] INFO  Common.Communicator - Received def:26,_____________,feverish desire to undress from 127.0.0.1:12001 from 127.0.0.1:12001
+2014-09-04 21:48:13,116 [Listener] DEBUG Common.Messages.MessageQueue - Entering MessageQueue.Enqueue
+2014-09-04 21:48:13,116 [Listener] DEBUG Common.Messages.MessageQueue - Leaving MessageQueue.Enqueue
+2014-09-04 21:48:13,117 [Worker] DEBUG Common.Messages.MessageQueue - Entering MessageQueue.Dequeue
+2014-09-04 21:48:13,117 [Worker] DEBUG Common.Messages.MessageQueue - Leaving MessageQueue.Dequeue
+2014-09-04 21:48:13,117 [Worker] INFO  WordGuessPlayer.Worker - Processing def:26,_____________,feverish desire to undress from 127.0.0.1:12001
+2014-09-04 21:48:13,119 [Worker] DEBUG WordGuessPlayer.Worker - Enter ProcessMessage
+2014-09-04 21:48:13,128 [Worker] DEBUG WordGuessPlayer.Worker - Leaving ProcessMessage
