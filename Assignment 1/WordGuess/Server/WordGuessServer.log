@@ -10679,3 +10679,18 @@
 2014-09-05 20:33:43,205 [Worker] DEBUG WordGuessServer.Worker - KeepGoing
 2014-09-05 20:33:53,205 [Worker] DEBUG WordGuessServer.Worker - KeepGoing
 2014-09-05 20:34:03,208 [Worker] DEBUG WordGuessServer.Worker - KeepGoing
+2014-09-05 20:34:13,203 [HeartbeatGenerator] INFO  Common.Communicator - Sent heartbeat:9/5/2014 5:58:42 PM to 127.0.0.1:12001, result=True
+2014-09-05 20:34:13,203 [HeartbeatGenerator] DEBUG Common.HeartbeatGenerator - sent Heartbeat message
+2014-09-05 20:34:13,208 [Worker] DEBUG WordGuessServer.Worker - KeepGoing
+2014-09-05 20:34:13,208 [Listener] INFO  Common.Communicator - Received heartbeat:9/5/2014 5:58:42 PM from 127.0.0.1:56969 from 127.0.0.1:56969
+2014-09-05 20:34:13,208 [Listener] DEBUG Common.Messages.MessageQueue - Entering MessageQueue.Enqueue
+2014-09-05 20:34:13,208 [Listener] DEBUG Common.Messages.MessageQueue - Leaving MessageQueue.Enqueue
+2014-09-05 20:34:13,208 [Worker] DEBUG Common.Messages.MessageQueue - Entering MessageQueue.Dequeue
+2014-09-05 20:34:13,208 [Worker] DEBUG Common.Messages.MessageQueue - Leaving MessageQueue.Dequeue
+2014-09-05 20:34:13,208 [Worker] INFO  WordGuessServer.Worker - Processing heartbeat:9/5/2014 5:58:42 PM from 127.0.0.1:56969
+2014-09-05 20:34:13,208 [Worker] DEBUG WordGuessServer.Worker - Enter ProcessMessage
+2014-09-05 20:34:13,208 [Worker] INFO  WordGuessServer.Worker - Heart Beat sent at 9/5/2014 8:34:13 PM processed at 9/5/2014 5:58:42 PM, from 127.0.0.1:56969
+2014-09-05 20:34:13,208 [Worker] DEBUG WordGuessServer.Worker - Leaving ProcessMessage
+2014-09-05 20:34:13,208 [Worker] DEBUG WordGuessServer.Worker - KeepGoing
+2014-09-05 20:34:23,209 [Worker] DEBUG WordGuessServer.Worker - KeepGoing
+2014-09-05 20:34:33,209 [Worker] DEBUG WordGuessServer.Worker - KeepGoing

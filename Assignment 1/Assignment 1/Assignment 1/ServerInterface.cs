@@ -60,11 +60,17 @@ namespace Assignment_1
         {
             //start new game
             //should be of format: newgame:<aNumber>,<lastName>,<firstName>
-            string response;
+            string response = "";
 
             serverConnection.Send("newgame:" + aNumber + "," + lastName + "," + firstName );
 
-            response = serverConnection.Receive();
+            System.Threading.Thread.Sleep(200);
+
+            if (serverConnection.Available() > 0)
+            {
+                response = serverConnection.Receive();
+
+            }
 
             string[] result;
 

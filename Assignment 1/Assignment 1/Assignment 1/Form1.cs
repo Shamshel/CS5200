@@ -199,24 +199,24 @@ namespace Assignment_1
                 gameSelectComboBox.Items.Add(currentGame.GetGameID());
                 gameSelectComboBox.Text = currentGame.GetGameID().ToString();
 
+                if (gameSelectComboBox.Items.Count > 1)
+                {
+                    gameSelectComboBox.Enabled = true;
+                    gameSelectButton.Enabled = true;
+                }
+
+                else
+                {
+                    gameSelectComboBox.Enabled = false;
+                    gameSelectButton.Enabled = false;
+
+                }
+
+                EnableLabels();
+
+                UpdateLabels();
+
             }
-
-            if(gameSelectComboBox.Items.Count > 1)
-            {
-                gameSelectComboBox.Enabled = true;
-                gameSelectButton.Enabled = true;
-            }
-
-            else
-            {
-                gameSelectComboBox.Enabled = false;
-                gameSelectButton.Enabled = false;
-
-            }
-
-            EnableLabels();
-
-            UpdateLabels();
 
         }
 
